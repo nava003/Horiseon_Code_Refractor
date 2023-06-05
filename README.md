@@ -17,3 +17,7 @@ WHEN I view the heading attributes\
 THEN they fall in sequential order\
 WHEN I view the title element\
 THEN I find a concise, descriptive title
+
+## Mock-Up Image
+The following image shows the web application's appearance and functionality:
+![01-html-css-git-homework-demo](https://github.com/nava003/HMTL_Challenge_1/assets/32070635/06168543-61ae-4d15-abed-ccf02c56575a)
