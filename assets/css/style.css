@@ -25,7 +25,8 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-header div {
+/* Edited navigation ruleset styles */
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,16 +34,11 @@ header div {
     font-size: 20px;
 }
 
-/* Deleted .header div ul ruleset */
-
-header div ul li {
-    display: inline-block;
-    margin-left: 25px;
-}
-
+/* Added spacing between links */
 a {
     color: #ffffff;
     text-decoration: none;
+    padding-left: 30px;
 }
 
 p {
