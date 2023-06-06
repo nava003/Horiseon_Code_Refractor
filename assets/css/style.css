@@ -32,9 +32,7 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
-    list-style-type: none;
-}
+/* Deleted .header div ul ruleset */
 
 .header div ul li {
     display: inline-block;
@@ -50,6 +48,7 @@ p {
     font-size: 16px;
 }
 
+/* Deleted image-related rulesets */
 .hero {
     height: 800px;
     width: 100%;
