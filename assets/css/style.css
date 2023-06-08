@@ -59,7 +59,9 @@ p {
 }
 
 /* Reduced class style ruleset redundancy */
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+/* Multiple 'content' child class names are now
+   unified to one class name */
+.contentSection {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -69,12 +71,12 @@ p {
 }
 
 /* Reduced img style ruleset redundancy */
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
+.contentSection img {
     max-height: 200px;
 }
 
 /* Reduced h2 style ruleset redundancy */
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
+.contentSection h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
