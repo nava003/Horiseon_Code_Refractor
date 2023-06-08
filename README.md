@@ -23,6 +23,7 @@ The following image shows the web application's appearance and functionality:<br
 ![01-html-css-git-homework-demo](https://github.com/nava003/HMTL_Challenge_1/assets/32070635/06168543-61ae-4d15-abed-ccf02c56575a)
 
 ## Student Result
+Link to Deployed Version: https://nava003.github.io/HMTL_Challenge_1/<br><br>
 The following images are snapshots of a modified HTML page, file, and respective CSS file:<br><br>
 ![HTML_C1_IMG0](https://github.com/nava003/HMTL_Challenge_1/assets/32070635/e6e56b99-5c79-418b-9bfa-f1f4b6a96894)
 ![HTML_C1_IMG1](https://github.com/nava003/HMTL_Challenge_1/assets/32070635/1bec43b2-5022-4777-b358-bf1d60195aeb)
