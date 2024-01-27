@@ -1,4 +1,4 @@
-# HMTL_Challenge_1
+# Horiseon Code Refractor
 
 ## User Story
 AS A marketing agency\
